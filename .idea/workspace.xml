@@ -16,13 +16,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X1OCf1Gm92kt3HgldQhCyVpUYY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,11 +78,27 @@
       <workItem from="1580210011371" duration="5964000" />
       <workItem from="1580216038148" duration="4915000" />
       <workItem from="1580222112057" duration="7303000" />
-      <workItem from="1580240889416" duration="252000" />
+      <workItem from="1580240889416" duration="1620000" />
+      <workItem from="1580453412612" duration="7846000" />
+      <workItem from="1580504576686" duration="3841000" />
+      <workItem from="1580569657978" duration="2222000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

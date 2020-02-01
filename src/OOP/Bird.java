@@ -3,7 +3,7 @@ package OOP;
 public class Bird extends Animal implements Flyable {
     @Override
     public String fly(){
-        return"I believe i can fly, i believe i can touch the sky";
+        return getName()+" Says :I believe i can fly, i believe i can touch the sky";
     };
 
     public Bird(String name) {
@@ -12,6 +12,6 @@ public class Bird extends Animal implements Flyable {
 
     @Override
     public String voice(){
-        return "tweet";
+        return getName()+" Says: tweet";
     }
 }

@@ -7,7 +7,7 @@ public class Horse extends Animal {
 
     @Override
     public String voice(){
-        return "whinny";
+        return getName()+"Says: whinny";
     }
 
 }

@@ -7,6 +7,6 @@ public class Kangaroo extends Animal {
 
     @Override
     public String voice(){
-        return "roar";
+        return getName()+"Says: roar";
     }
 }
